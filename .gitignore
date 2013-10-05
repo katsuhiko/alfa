@@ -25,6 +25,9 @@ Thumbs.db
 .settings
 .buildpath
 .project
+app/*.lock
+app/Plugin/*
+!app/Plugin/Composer
 app/tmp/cache/models/*
 app/tmp/cache/persistent/*
 app/tmp/cache/views/*

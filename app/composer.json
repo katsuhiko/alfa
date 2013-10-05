@@ -1,1 +1,8 @@
-{"config":{"vendor-dir":"Vendor"}}
+{
+	"require": {
+		"cakephp/debug_kit": "2.2.*@dev"
+	},
+	"config": {
+		"vendor-dir": "Vendor"
+	}
+}

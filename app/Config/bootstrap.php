@@ -109,5 +109,6 @@ CakeLog::config('error', array(
 ));
 
 // add plugins
-CakePlugin::load('Composer', array('bootstrap' => true));
-
+CakePlugin::loadAll(array(
+	'Composer', array('bootstrap' => true)
+));
