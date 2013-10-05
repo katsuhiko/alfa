@@ -24,3 +24,6 @@ Thumbs.db
 .settings
 .buildpath
 .project
+tmp/*
+app/tmp/*
+!empty
