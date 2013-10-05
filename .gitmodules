@@ -1,3 +1,6 @@
 [submodule "cakephp"]
 	path = cakephp
 	url = git://github.com/cakephp/cakephp.git
+[submodule "app/Plugin/Composer"]
+	path = app/Plugin/Composer
+	url = https://github.com/uzyn/cakephp-composer.git
