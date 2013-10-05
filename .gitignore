@@ -20,7 +20,8 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# Eclipse
+# Project            #
+######################
 .settings
 .buildpath
 .project
