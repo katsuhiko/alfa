@@ -25,5 +25,4 @@ Thumbs.db
 .buildpath
 .project
 tmp/*
-app/tmp/*
 !empty
