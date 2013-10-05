@@ -27,6 +27,7 @@ Thumbs.db
 .project
 app/*.lock
 app/Plugin/*
+!app/Plugin/Composer
 app/Vendor/*
 app/tmp/cache/models/*
 app/tmp/cache/persistent/*
