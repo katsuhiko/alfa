@@ -1,0 +1,6 @@
+初期導入
+	http://longkey1.net/blog/2012/12/15/the-personal-method-of-setup-of-cakephp/
+	http://www.sigesaba.com/2013/02/cakephp2-composer-plugin.php
+
+Composerパッケージリスト
+	https://packagist.org/packages/
