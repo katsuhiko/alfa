@@ -24,5 +24,11 @@ Thumbs.db
 .settings
 .buildpath
 .project
+app/tmp/cache/models/*
+app/tmp/cache/persistent/*
+app/tmp/cache/views/*
+app/tmp/logs/*
+app/tmp/sessions/*
+app/tmp/tests/*
 tmp/*
 !empty
